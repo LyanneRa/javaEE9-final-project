@@ -1,5 +1,6 @@
 package com.javaee9.javaee9finalproject.controller;
 
+import com.javaee9.javaee9finalproject.dto.PostDto;
 import com.javaee9.javaee9finalproject.entity.Post;
 import com.javaee9.javaee9finalproject.service.PostService;
 import lombok.extern.slf4j.Slf4j;
